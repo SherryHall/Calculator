@@ -1,0 +1,14 @@
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\sherry\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb

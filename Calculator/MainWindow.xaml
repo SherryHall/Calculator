@@ -1,0 +1,21 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+	<Grid Margin="0,0,-0.333,-0.333">
+		<TextBox x:Name="inputNum2" HorizontalAlignment="Left" Height="23" Margin="200,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+		<Button x:Name="Add" Content="+" HorizontalAlignment="Left" Margin="24,82,0,0" VerticalAlignment="Top" Width="70" Click="Add_Click" FontWeight="Bold"/>
+		<Button x:Name="Sutract" Content="-" HorizontalAlignment="Left" Margin="123,82,0,0" VerticalAlignment="Top" Width="70" Click="Sutract_Click" FontSize="14" FontWeight="Bold"/>
+		<Button x:Name="Multiply" Content="*" HorizontalAlignment="Left" Margin="225,84,0,0" VerticalAlignment="Top" Width="70" FontSize="14" FontWeight="Bold" Click="Multiply_Click"/>
+		<Button x:Name="Divide" Content="/" HorizontalAlignment="Left" Margin="325,82,0,0" VerticalAlignment="Top" Width="70" Click="Divide_Click" FontWeight="Bold"/>
+		<TextBox x:Name="answer" HorizontalAlignment="Left" Height="23" Margin="200,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+		<Button x:Name="Modulus" Content="%" HorizontalAlignment="Left" Margin="423,80,0,0" VerticalAlignment="Top" Width="70" Click="Modulus_Click" FontSize="14" FontWeight="Bold"/>
+		<Label x:Name="label" Content="=" HorizontalAlignment="Left" Margin="253,168,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="47" Height="50" FontSize="30" FontWeight="Bold"/>
+		<TextBox x:Name="inputNum1" HorizontalAlignment="Left" Height="23" Margin="200,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+	</Grid>
+</Window>
